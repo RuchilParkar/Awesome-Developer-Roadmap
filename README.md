@@ -147,7 +147,7 @@ The top 10 most valuable and highly recommended roadmaps across the entire indus
 3. **[Frontend Developer Roadmap](https://roadmap.sh/frontend)**: A deeply structured and frequently updated guide that perfectly captures the complex frontend ecosystem.
 4. **[DevOps Roadmap](https://roadmap.sh/devops)**: Clarifies the daunting landscape of infrastructure, CI/CD, and monitoring.
 5. **[AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)**: An incredible visual guide mapping out the intersection of data science, statistics, and machine learning.
-6. **[Cloud Native Roadmap](https://github.com/cloudnative-dev/cloudnativedev)**: The best interactive way to navigate the massive CNCF ecosystem.
+6. **[Cloud Native Landscape](https://landscape.cncf.io/)**: The best interactive way to navigate the massive CNCF ecosystem.
 7. **[React Developer Roadmap](https://roadmap.sh/react)**: The definitive guide for mastering the industry's most popular frontend framework.
 8. **[Coding Interview University](https://github.com/jwasham/coding-interview-university)**: A rigorous, multi-month study plan for mastering software engineering fundamentals and algorithms.
 9. **[Data Engineer Roadmap](https://roadmap.sh/data-engineer)**: An extremely detailed path covering data lakes, pipelines, and distributed processing systems.
@@ -277,8 +277,8 @@ Curated platforms that offer high-quality, structured curriculums:
 
 | Roadmap | Difficulty | Estimated Time | Resource Type | Last Updated | Rating | Description |
 |---|---|---|---|---|---|---|
-| [Cloud Native](https://github.com/cloudnative-dev/cloudnativedev) | 🟡 Intermediate → 🔴 Expert | 4–6 Months | 📂 GitHub | 2023 | ⭐⭐⭐⭐⭐ | Interactive landscape and roadmap for navigating CNCF Cloud Native technologies. |
-| [AWS Solutions Architect](https://github.com/alozano-77/AWS-Solutions-Architect-Associate-Roadmap) | 🟡 Intermediate | 2–3 Months | 📂 GitHub | 2023 | ⭐⭐⭐⭐ | Guide and resources to passing the AWS Solutions Architect Associate certification exam. |
+| [Cloud Native Landscape](https://landscape.cncf.io/) | 🟡 Intermediate → 🔴 Expert | 4–6 Months | 🌐 Website | 2024 | ⭐⭐⭐⭐⭐ | Interactive landscape and roadmap for navigating CNCF Cloud Native technologies. |
+| [AWS Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | 🟡 Intermediate | 2–3 Months | 🌐 Website | 2024 | ⭐⭐⭐⭐⭐ | Official guide and resources to passing the AWS Solutions Architect Associate certification exam. |
 
 </details>
 
@@ -306,7 +306,7 @@ Curated platforms that offer high-quality, structured curriculums:
 | Roadmap | Difficulty | Estimated Time | Resource Type | Last Updated | Rating | Description |
 |---|---|---|---|---|---|---|
 | [Cyber Security](https://roadmap.sh/cyber-security) | 🟢 Beginner → 🔴 Expert | 6–10 Months | 🌐 Website | 2024 | ⭐⭐⭐⭐⭐ | A comprehensive roadmap covering defensive and offensive security principles and networking. |
-| [Web Security](https://github.com/wtsxDev/Web-Security-Roadmap) | 🟡 Intermediate → 🟠 Advanced | 4–6 Months | 📂 GitHub | 2023 | ⭐⭐⭐⭐ | A focused roadmap for web application security, OWASP top 10, and penetration testing. |
+| [Web Security](https://github.com/ossamayasserr/WebAppPentestRoadmap) | 🟡 Intermediate → 🟠 Advanced | 4–6 Months | 📂 GitHub | 2024 | ⭐⭐⭐⭐⭐ | A focused roadmap for web application security, OWASP top 10, and penetration testing. |
 
 </details>
 
@@ -318,7 +318,7 @@ Curated platforms that offer high-quality, structured curriculums:
 
 | Roadmap | Difficulty | Estimated Time | Resource Type | Last Updated | Rating | Description |
 |---|---|---|---|---|---|---|
-| [PostgreSQL Roadmap](https://roadmap.sh/postgresql) | 🟢 Beginner → 🟠 Advanced | 2–4 Months | 🌐 Website | 2024 | ⭐⭐⭐⭐⭐ | Step-by-step guide to mastering the world's most advanced open-source relational database. |
+| [SQL Roadmap](https://roadmap.sh/sql) | 🟢 Beginner → 🟠 Advanced | 2–4 Months | 🌐 Website | 2024 | ⭐⭐⭐⭐⭐ | Step-by-step guide to mastering SQL and relational databases. |
 | [MongoDB Roadmap](https://roadmap.sh/mongodb) | 🟢 Beginner → 🟡 Intermediate | 1–3 Months | 🌐 Website | 2024 | ⭐⭐⭐⭐⭐ | Guide to mastering the leading NoSQL document database. |
 
 </details>
